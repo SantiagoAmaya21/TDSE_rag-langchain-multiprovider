@@ -99,11 +99,17 @@ This forms the complete RAG pipeline.
 rag-langchain-multiprovider/
 │
 ├── main.py
+
 ├── config.py
+
 ├── ingest.py
+
 ├── .gitignore
+
 ├── retrieval_chain.py
+
 ├── requirements.txt
+
 └── .env.example
 
 
