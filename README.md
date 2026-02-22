@@ -1,4 +1,6 @@
-# RAG System with LangChain (Multi-Provider: Gemini / OpenAI)
+# TDSE - RAG System with LangChain (Multi-Provider: Gemini / OpenAI)
+
+Student Name: Santiago Amaya Zapata
 
 ## Project Overview
 
