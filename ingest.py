@@ -29,6 +29,7 @@ def build_vector_store(embeddings):
         splits,
         embedding=embeddings
     )
+    
 
     print("[+] Vector store created")
 
