@@ -121,8 +121,8 @@ rag-langchain-multiprovider/
 ## Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/rag-langchain-multiprovider.git
-cd rag-langchain-multiprovider
+git clone https://github.com/SantiagoAmaya21/TDSE_rag-langchain-multiprovider.git
+cd TDSE_rag-langchain-multiprovider
 ```
 
 ## Step 2 — Create Virtual Environment
@@ -178,6 +178,7 @@ Example Execution
 
 ![imagen1](img/imagen1.png)
 
+---
 
 ## Technical Highlights
 
