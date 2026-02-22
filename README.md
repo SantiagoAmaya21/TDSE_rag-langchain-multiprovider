@@ -169,16 +169,7 @@ RAG system ready. Type 'exit' to quit.
 
 Example Execution
 
-Example 1
-Ask a question: What are LLM-powered agents?
-
-Output:
-
-Answer:
-
-LLM-powered agents are systems that combine large language models
-with tools, memory, and planning mechanisms to perform complex tasks.
-They can reason, use external resources, and execute multi-step workflows.
+![imagen1](img/imagen1.png)
 
 
 ## Technical Highlights
